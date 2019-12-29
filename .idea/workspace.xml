@@ -2,12 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70376332-cc2b-4801-9d0f-50fa61c5a50e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-sfgpetclinic.SfgPetClinicApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-sfgpetclinic.SfgPetClinicApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/sfgpetclinic.SfgPetClinicApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/sfgpetclinic.SfgPetClinicApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/release.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/guru/springframework/sfgpetclinic/model/Owner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/guru/springframework/sfgpetclinic/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/guru/springframework/sfgpetclinic/model/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/guru/springframework/sfgpetclinic/model/PetType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/guru/springframework/sfgpetclinic/model/Vet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/guru/springframework/sfgpetclinic/SfgPetClinicApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-sfgpetclinic.SfgPetClinicApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/sfgpetclinic.SfgPetClinicApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/test-classes/sfgpetclinic/SfgPetClinicApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/Vet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -105,12 +129,27 @@
       <updated>1577538356985</updated>
       <workItem from="1577538378512" duration="2272000" />
       <workItem from="1577634129935" duration="7255000" />
-      <workItem from="1577645708725" duration="764000" />
+      <workItem from="1577645708725" duration="2345000" />
     </task>
+    <task id="LOCAL-00001" summary="adding the release plugin. Closes #3">
+      <created>1577646817265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577646817265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="adding the release plugin. Closes #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding the release plugin. Closes #3" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1342" y="293" key="#com.intellij.ide.util.MemberChooser" timestamp="1577636979135">
@@ -129,29 +168,33 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="1334" y="457" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2048.1152@0.0.2048.1152" timestamp="1577640942863" />
+    <state x="-1438" y="135" key="CommitChangelistDialog2" timestamp="1577646814652">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1438" y="135" key="CommitChangelistDialog2/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577646814652" />
     <state x="1317" y="332" key="FileChooserDialogImpl" timestamp="1577555442584">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="1317" y="332" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1577555442584" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1577646213533">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1577647716318">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577646213533" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577647716318" />
     <state width="982" height="316" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1577643413679" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1577646213533">
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1577647716318">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577646213533" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577647716318" />
     <state width="982" height="316" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1577643413678" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1577646213532">
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1577647716317">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577646213532" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577647716317" />
     <state width="982" height="316" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1577643413678" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1577646213533">
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1577647716318">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577646213533" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577647716318" />
     <state width="982" height="316" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1577643413679" />
     <state width="982" height="316" key="GridCell.Tab.1.bottom" timestamp="1577638614288">
       <screen x="0" y="0" width="2048" height="1152" />
