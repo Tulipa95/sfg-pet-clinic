@@ -45,7 +45,9 @@
     </build>
 
     <scm>
+        <url>https://github.com/Tulipa95/sfg-pet-clinic.git</url>
+        <connection>scm:git:git@github.com:Tulipa95/sfg-pet-clinic.gitt</connection>
         <developerConnection>scm:git:git@github.com:Tulipa95/sfg-pet-clinic.git</developerConnection>
-      <tag>sfg-pet-clinic-0.0.1</tag>
+        <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
