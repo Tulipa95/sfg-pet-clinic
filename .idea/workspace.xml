@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70376332-cc2b-4801-9d0f-50fa61c5a50e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SfgPetClinicApplication">
+  <component name="RunManager" selected="Spring Boot.SfgPetClinicApplication (1)">
     <configuration name="SfgPetClinicApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="pet-clinic-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.sfgpetclinic.SfgPetClinicApplication" />
@@ -84,8 +85,24 @@
     <option name="viewStates">
       <list>
         <serviceView>
+          <option name="contentProportion" value="0.11038961" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -104,7 +121,7 @@
       <updated>1577538356985</updated>
       <workItem from="1577538378512" duration="2272000" />
       <workItem from="1577634129935" duration="7255000" />
-      <workItem from="1577645708725" duration="2757000" />
+      <workItem from="1577645708725" duration="5185000" />
     </task>
     <task id="LOCAL-00001" summary="adding the release plugin. Closes #3">
       <created>1577646817265</created>
@@ -152,41 +169,45 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="1317" y="332" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1577555442584" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1577647716318">
+    <state width="1643" height="180" key="GridCell.Tab.0.bottom" timestamp="1577653896145">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577647716318" />
+    <state width="1643" height="180" key="GridCell.Tab.0.bottom/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577653896145" />
     <state width="982" height="316" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1577643413679" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1577647716318">
+    <state width="1643" height="180" key="GridCell.Tab.0.center" timestamp="1577653896144">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577647716318" />
+    <state width="1643" height="180" key="GridCell.Tab.0.center/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577653896144" />
     <state width="982" height="316" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1577643413678" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1577647716317">
+    <state width="1643" height="180" key="GridCell.Tab.0.left" timestamp="1577653896144">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577647716317" />
+    <state width="1643" height="180" key="GridCell.Tab.0.left/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577653896144" />
     <state width="982" height="316" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1577643413678" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1577647716318">
+    <state width="1643" height="180" key="GridCell.Tab.0.right" timestamp="1577653896144">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577647716318" />
+    <state width="1643" height="180" key="GridCell.Tab.0.right/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577653896144" />
     <state width="982" height="316" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1577643413679" />
-    <state width="982" height="316" key="GridCell.Tab.1.bottom" timestamp="1577638614288">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state width="1643" height="180" key="GridCell.Tab.1.bottom" timestamp="1577653902071">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1643" height="180" key="GridCell.Tab.1.bottom/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577653902071" />
     <state width="982" height="316" key="GridCell.Tab.1.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1577638614288" />
-    <state width="982" height="316" key="GridCell.Tab.1.center" timestamp="1577638614288">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state width="1643" height="180" key="GridCell.Tab.1.center" timestamp="1577653902071">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1643" height="180" key="GridCell.Tab.1.center/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577653902071" />
     <state width="982" height="316" key="GridCell.Tab.1.center/0.0.2048.1152@0.0.2048.1152" timestamp="1577638614288" />
-    <state width="982" height="316" key="GridCell.Tab.1.left" timestamp="1577638614288">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state width="1643" height="180" key="GridCell.Tab.1.left" timestamp="1577653902071">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1643" height="180" key="GridCell.Tab.1.left/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577653902071" />
     <state width="982" height="316" key="GridCell.Tab.1.left/0.0.2048.1152@0.0.2048.1152" timestamp="1577638614288" />
-    <state width="982" height="316" key="GridCell.Tab.1.right" timestamp="1577638614288">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state width="1643" height="180" key="GridCell.Tab.1.right" timestamp="1577653902071">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1643" height="180" key="GridCell.Tab.1.right/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577653902071" />
     <state width="982" height="316" key="GridCell.Tab.1.right/0.0.2048.1152@0.0.2048.1152" timestamp="1577638614288" />
     <state x="1207" y="276" key="NewModule_or_Project.wizard" timestamp="1577555445725">
       <screen x="0" y="0" width="2048" height="1152" />
@@ -196,9 +217,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1264" y="364" key="com.intellij.ide.util.TipDialog/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577645715557" />
-    <state x="930" y="279" key="new project wizard" timestamp="1577637566426">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state x="-1618" y="233" key="new project wizard" timestamp="1577650602518">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1618" y="233" key="new project wizard/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577650602518" />
     <state x="930" y="279" key="new project wizard/0.0.2048.1152@0.0.2048.1152" timestamp="1577637566426" />
   </component>
 </project>
