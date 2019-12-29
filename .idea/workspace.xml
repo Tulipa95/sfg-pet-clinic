@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70376332-cc2b-4801-9d0f-50fa61c5a50e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +117,7 @@
       <updated>1577538356985</updated>
       <workItem from="1577538378512" duration="2272000" />
       <workItem from="1577634129935" duration="7255000" />
-      <workItem from="1577645708725" duration="5185000" />
+      <workItem from="1577645708725" duration="6707000" />
     </task>
     <task id="LOCAL-00001" summary="adding the release plugin. Closes #3">
       <created>1577646817265</created>
@@ -144,10 +140,10 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-662" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1577648421847">
+    <state x="-662" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1577655787688">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-662" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577648421847" />
+    <state x="-662" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1152/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1577655787688" />
     <state x="1342" y="293" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1577636979135" />
     <state x="1137" y="502" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1577641015718">
       <screen x="0" y="0" width="2048" height="1152" />
